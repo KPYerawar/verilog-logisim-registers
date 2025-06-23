@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Jun 23 11:49:37 2025
+[*]
+[dumpfile] "/home/krushna_dev/snap/code/verilog_codes/registers/PIPO/code_and_output_files/pipo.vcd"
+[dumpfile_mtime] "Mon Jun 23 11:47:58 2025"
+[dumpfile_size] 1897
+[savefile] "/home/krushna_dev/snap/code/verilog_codes/registers/PIPO/gtkwave_and_ss_files/gtkwave_file.gtkw"
+[timestart] 0
+[size] 1296 704
+[pos] -88 -88
+*-5.125389 110 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 180
+@28
+tb_pipo_reg.clk
+tb_pipo_reg.d0
+tb_pipo_reg.d1
+tb_pipo_reg.d2
+tb_pipo_reg.d3
+tb_pipo_reg.q0
+tb_pipo_reg.q1
+tb_pipo_reg.q3
+@29
+tb_pipo_reg.rst
+[pattern_trace] 1
+[pattern_trace] 0
