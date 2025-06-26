@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Jun 26 12:09:58 2025
+[*]
+[dumpfile] "(null)"
+[savefile] "/home/krushna_dev/verilog_file/siso/gtkwave_file/gtkwave.gtkw"
+[timestart] 0
+[size] 1064 600
+[pos] -1 -1
+*-5.470525 101 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 183
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+tb_siso.clk
+tb_siso.rst
+tb_siso.serial_in
+@29
+tb_siso.serial_out
+[pattern_trace] 1
+[pattern_trace] 0
